@@ -61,7 +61,7 @@ drill = [
 drill = model.predict([drill])
 drill
 
-#Target Values
+# Target Values
 target_depth = 300.0
 target_dip = 65.0
 target_azimuth = 120.0
