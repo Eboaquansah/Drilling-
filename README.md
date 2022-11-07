@@ -59,6 +59,7 @@ drill = [
 
 # Make prediction
 drill = model.predict([drill])
+
 drill
 
 # Target Values
